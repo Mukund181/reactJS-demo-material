@@ -1,6 +1,6 @@
 # ⚛️ The Ultimate React Mastery Guide: From Zero to Expert
 
-This guide is structured to teach you React step-by-step, assuming you know modern JavaScript (ES6+). It maps the topics covered in *React Interview Guide 2026 — Mohit Decodes* into a logical, educational curriculum designed to take you from a React beginner to a production-ready architect.
+This guide is structured to teach you React step-by-step, assuming you know modern JavaScript (ES6+). 
 
 ---
 
